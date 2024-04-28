@@ -26,5 +26,6 @@ Contributions to Dareko are welcome! If you have any ideas for new features, imp
 7. ## for more contact this is my linkedin profile:
 8. www.linkedin.com/in/aziz-trabelsi03
 
-##interfaces: 
-![main](https://github.com/aziztr/Dareko/assets/143403756/50983ca0-660a-4190-99c2-180310fc4be4)
+##interface: 
+
+![home](https://github.com/aziztr/Dareko/assets/143403756/7ce32109-3f3d-4cd7-bb5e-868e66765ef2)
