@@ -1,0 +1,23 @@
+<resources>
+    <string name="help_text">will help you</string>
+    <string name="dareko">Dareko</string>
+    <string name="life">  life.</string>
+    <string name="tranquil">tranquil</string>
+    <string name="happier">happier</string>
+    <string name="more">more</string>
+    <string name="and">and</string>
+    <string name="live">live</string>
+    <string name="start_journey">Start your journey</string>
+    <string name="app_name" />
+    <string name="sign_in">Sign in</string>
+    <string name="paragraph">Clause 1
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra condimentum eget purus in. Consectetur eget id morbi amet amet, in. Ipsum viverra pretium tellus neque. Ullamcorper suspendisse aenean leo pharetra in sit semper et. Amet quam placerat sem.
+    2. Clause 2
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra condimentum eget purus in. Consectetur eget id morbi amet amet, in. Ipsum viverra pretium tellus neque. Ullamcorper suspendisse aenean leo pharetra in sit semper et. Amet quam placerat sem.
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra condimentum eget purus in. Consectetur eget id morbi amet amet, in. Ipsum viverra pretium tellus neque. Ullamcorper suspendisse aenean leo pharetra in sit semper et. Amet quam placerat sem.
+    3. Clause 3
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra condimentum eget purus in. Consectetur eget id morbi amet amet, in. Ipsum viverra pretium tellus neque. Ullamcorper suspendisse aenean leo pharetra in sit semper et. Amet quam placerat sem.
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra condimentum eget purus in. Consectetur eget id morbi amet amet, in. Ipsum viverra pretium tellus neque. Ullamcorper suspendisse aenean leo pharetra in sit semper et. Amet quam placerat sem.</string>
+</resources>
