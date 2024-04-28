@@ -15,6 +15,7 @@ To install Dareko on your Android device, follow these steps:
 
 Contributions to Dareko are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to submit a pull request.
 
+
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
 3. Make your changes.
@@ -25,3 +26,5 @@ Contributions to Dareko are welcome! If you have any ideas for new features, imp
 7. ## for more contact this is my linkedin profile:
 8. www.linkedin.com/in/aziz-trabelsi03
 
+##interfaces: 
+![main](https://github.com/aziztr/Dareko/assets/143403756/50983ca0-660a-4190-99c2-180310fc4be4)
